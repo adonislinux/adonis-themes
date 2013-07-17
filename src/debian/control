@@ -1,0 +1,13 @@
+Source: adonis-themes
+Section: admin
+Priority: optional
+Maintainer: Bobby Martin <bobb.mrtn@gmail.com>
+Build-Depends: cdbs, debhelper (>= 5.0.0)
+Standards-Version: 3.9.4
+
+Package: adonis-themes
+Architecture: all
+Depends: 
+Description: Configures themes for adonis linux
+ Configures themes for adonis linux and sets default session settings.
+
